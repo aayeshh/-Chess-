@@ -2,7 +2,7 @@
 Chess developed in C++ using features of OOP, and SFML for graphics.
 
 # Overview
- -This project is a fully functional chess game developed in C++ using the Simple and Fast Multimedia Library (SFML) for graphics. The game is designed with Object-Oriented Programming (OOP) principles, ensuring a modular and maintainable codebase.
+ - This project is a fully functional chess game developed in C++ using the Simple and Fast Multimedia Library (SFML) for graphics. The game is designed with Object-Oriented Programming (OOP) principles, ensuring a modular and maintainable codebase.
 
 # Features
 - Graphical Interface: The game features a user-friendly graphical interface powered by SFML.
