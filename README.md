@@ -16,7 +16,8 @@ Chess developed in C++ using features of OOP, and SFML for graphics.
 # Installation
 - Prerequisites
 - C++ Compiler: Ensure you have a C++ compiler installed (e.g., g++, clang++).
-- SFML Library: Download and install SFML from SFML's official website
+- SFML Library: Download and install SFML from SFML's official website.
+- The project in which sfml is working place all the files in it, and run the game.
 
 # Setting Up SFML for Your Project
 - Prerequisites
